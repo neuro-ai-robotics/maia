@@ -8,10 +8,7 @@
 ² Donders Institute for Cognition, Radboud University, The Netherlands  
 
 The code will be released fully upon acceptance.  
-For early access or collaboration inquiries, please contact:
-
-📧 pablo.lanillos@csic.es  
-📧 alma.vivas@csic.es  
+For early access or collaboration inquiries, please contact us.  
 
 This research has been funded by the **DEEPSELF** project (Grant No. 467045002, DFG Priority Programme *The Active Self*).
 
