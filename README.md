@@ -25,8 +25,8 @@ Evaluation is performed in a goal-directed continuous control task designed to e
 <div align="center">
 <table>
     <tr>
-    <td><img width="400" height="500" alt="lizard" src="https://github.com/user-attachments/assets/659b66c0-70d6-48ef-bab7-69a5f4b338b1" /></td>
-    <td> <img width="400" height="500" alt="agent" src="https://github.com/user-attachments/assets/575a4a3c-3077-49b0-b309-ebd4dfb76245" /></td>
+    <td><img width="400" height="500" alt="lizard" src="https://github.com/user-attachments/assets/310955c8-f616-4fca-a937-04a12356be0e" /></td>
+    <td> <img width="400" height="500" alt="agent" src="https://github.com/user-attachments/assets/ca7ec3a3-39e2-4582-bf7f-d56eb2643c9b" /></td>
     </tr>
 </table>
 </div>
@@ -34,7 +34,7 @@ Evaluation is performed in a goal-directed continuous control task designed to e
 The architecture comprises three consolidation routes that coordinate minimal agentive organization, tracing the full arc of agency and delineating the emergence of the self, understood as the most primitive form of autonomy.
 
 <div align="center">
-<img width="800" height="800" alt="maia" src="https://github.com/user-attachments/assets/495b95ec-80ca-4e10-adb3-cbe852fca490" />
+<img width="800" height="800" alt="maia" src="https://github.com/user-attachments/assets/1a135ec8-9cd3-4940-8a96-f767053abdb3" />
 </div>
 
 By isolating the essential functional components of control, we show that self-related organization can be both implemented and implicitly measured—offering a principled path toward synthetic autonomy with relevance across species.
