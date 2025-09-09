@@ -26,7 +26,7 @@ Evaluation is performed in a goal-directed continuous control task designed to e
 <table>
     <tr>
     <td><img width="400" height="500" alt="lizard" src="https://github.com/user-attachments/assets/310955c8-f616-4fca-a937-04a12356be0e" /></td>
-    <td> <img width="400" height="500" alt="agent" src="https://github.com/user-attachments/assets/ca7ec3a3-39e2-4582-bf7f-d56eb2643c9b" /></td>
+    <td> <img width="400" height="500" alt="agent" src="https://github.com/user-attachments/assets/2e8f4251-7886-4ceb-b9ae-b53fe93908d2" /></td>
     </tr>
 </table>
 </div>
